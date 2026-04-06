@@ -9,17 +9,27 @@ body {
 
 .container {
     background: white;
+    height: 140px;
     padding: 30px;
-    border-radius: 12px;
+    border-radius: 16px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.2);
     text-align: center;
+}
+
+h2 {
+    margin-top: 5px;
+    color: #333;
+}
+p {
+    margin-top: 5px;
+    color: #666;
 }
 
 input {
     padding: 10px;
     font-size: 16px;
     margin: 10px 0;
-    width: 150px;
+    width: 160px;
 }
 
 button {
