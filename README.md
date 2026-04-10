@@ -90,7 +90,7 @@ The script expects the following HTML elements:
 .
 ├── index.html
 ├── script.js
-└── style.css (optional)
+└── style.css
 ```
 
 ---
